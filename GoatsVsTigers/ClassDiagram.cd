@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SinglePlayer">
+    <Position X="0.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YgIBARAgAAAAgACgAJAAAAAAAAgAAABAAAAAABRFABw=</HashCode>
+      <FileName>SinglePlayer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Multiplayer">
+    <Position X="3" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YgIBARAgAAAAgACiAJAAAAAAAAAAAABAgAAAABRFABw=</HashCode>
+      <FileName>Multiplayer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GoatsVsTigersGame">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAwAoABFAAEAAAIAAQAAECAAEAAAAAEAAAABAAAA=</HashCode>
+      <FileName>GoatsVsTigersGame.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameMode">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YgIAARAgABAAgACgAJAAAKQAAAAAAABAAgAAABRFABw=</HashCode>
+      <FileName>GameMode.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gameBoard">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YAMAIAAEAAQAjAQEQAgACACEwAAAQECAAAACEAQMAAA=</HashCode>
+      <FileName>gameBoard.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Fields">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Struct Name="Fields::fields">
+        <TypeIdentifier>
+          <NewMemberFileName>Fields.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAIABAAhAAAAAUAGAABAAAIBBAAAJAAAEAgAE=</HashCode>
+      <FileName>Fields.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,10 @@
+1
+0
+0
+0
+1
+0
+0
+a1: goat  b1: goat  c1: goat  d1: goat  e1: goat  a2: goat  b2: goat  c2: goat  d2: goat  e2: empty  a3: goat  b3: goat  c3: tiger  d3: goat  e3: goat  a4: empty  b4: tiger  c4: goat  d4: goat  e4: goat  a5: tiger  b5: tiger  c5: goat  d5: goat  e5: goat  
+sdfff
+bot
